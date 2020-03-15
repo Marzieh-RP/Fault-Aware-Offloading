@@ -5,3 +5,5 @@ There are three directories in this project:
 3) Synthetic workflow graph generator is a code that can generate synthnetic work flow graphs.
 
 We are currently in the process of preparing a more detailed user guide for this project.
+
+Note that you will need to seperately download the MOEA Framework from their github repository.
